@@ -8,8 +8,12 @@
 ## Alunos
 | Nome                | Contato                              |
 | ------------------- | ------------------------------------ |
-| YANN                | a@a.com                              |
-| Carla               | b@b.com                              |
+| YANN                | yann_pg!hotmail.com                  |
+| Clara Joaquim       | clarajpmarques!gmail.com             |
+| Gabriela Cunha      | gabiviana.cunha!gmail.com            |
+| Sthefany Souza      | sthefany.souza1006!gmail.com         |
+| Vitoria Alvim       | vitoria.nardotto!gmail.com           | 
+| Kaique Souza        | kaiquesouza1910!gmail.com            |
 
 # Descrição
 O objetivo principal desta APP é facilitar o trabalho de um tutor ou professor, para criar grupos com pessoas / alunos para alguma atividade em grupo. 
@@ -32,7 +36,7 @@ Informações sobre o desenvolvimento...
 
 ## Regras para Backend
 No momento de Criar o Grupo:
-1. Gerar os grupos  usuarios cuja descrição se entre (A - Z), máximo de 30 grupos.
+1. Gerar os grupos usuarios cuja descrição se entre (A - Z), máximo de 30 grupos.
 2. De acordo com a quantidade de usuários por grupo o mentor pode alterar a quantidade de grupos
 3. Criar os registro no grupos_usuarios de acordo com a quantidade por grupo.
 
