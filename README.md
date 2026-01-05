@@ -22,10 +22,10 @@ A APP deve disponibilizar uma interface simplificada e ágil de calcular a quant
 5. Ao final o tutor / professor deve exportar os grupos com as pessoas / alunos num PDF.
 
 # Proposta do Projeto Grupos X Pessoas
-![Proposta do Projeto de Grupos X Pessoas](Imagens/figura1.jpg){ width="700" heigh="500" align=left }
+![Proposta do Projeto de Grupos X Pessoas](figura1.jpg){ width="700" heigh="500" align=left }
 
 ## Diagrama de Entidade e Relacionamento
-![Diagrama de Entidade e Relacionamento](Imagens/Grupos_X_Usuarios.png){ width="700" heigh="500" align=left }
+![Diagrama de Entidade e Relacionamento](Grupos_X_Usuarios.png){ width="700" heigh="500" align=left }
 
 ## Frontend
 Informações sobre o desenvolvimento...
