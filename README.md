@@ -30,7 +30,7 @@ A APP deve disponibilizar uma interface simplificada e ágil de calcular a quant
 # Proposta do Projeto Grupos X Pessoas
 ![Proposta do Projeto de Grupos X Pessoas](figura1.jpg){ align=left }
 
-!!! Venda
+!!! note Venda
 Chega de perder tempo com planilhas e suposições! Com o Agrupa, você, tutor ou líder, tem o poder de otimizar a formação de seus grupos como nunca antes. 
 
 Principais Recursos:
@@ -39,7 +39,7 @@ Principais Recursos:
 
 Seja para a sala de aula, um projeto corporativo, um evento ou qualquer iniciativa que dependa da formação eficaz de equipes.
 
-!!!O Agrupa é a ferramenta que transforma a complexidade em simplicidade, garantindo resultados superiores.
+!!! note O Agrupa é a ferramenta que transforma a complexidade em simplicidade, garantindo resultados superiores.
      # Baixe agora o Agrupa e leve a formação dos seus grupos para um novo nível!
           ## “Agrupa: Juntos, o impossível vira resultado.”
 
