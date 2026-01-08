@@ -64,6 +64,7 @@ No momento de Criar o Grupo:
 3. Criar os registro no grupos_usuarios de acordo com a quantidade por grupo.
 
 Cálculo da quantidade de pessoas por grupo 
+
 Hipótese 1
 43 alunos / 6 grupos
      43 / 6 = 7,16666  isto é 6 grupos com 7 usuáros e o ultimo grupo com 8 usuáros
