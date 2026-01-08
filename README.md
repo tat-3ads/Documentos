@@ -33,21 +33,23 @@ A APP deve disponibilizar uma interface simplificada e ágil de calcular a quant
 # Venda
 Chega de perder tempo com planilhas e suposições! Com o Agrupa, você, tutor ou líder, tem o poder de otimizar a formação de seus grupos como nunca antes. 
 Principais Recursos:
-Gestão Intuitiva: Acompanhe o progresso dos grupos, faça ajustes e comunique-se de forma eficiente.
-Ambiente Colaborativo: Incentiva a troca de conhecimentos e fortalece os laços entre os participantes.
+     Gestão Intuitiva: Acompanhe o progresso dos grupos, faça ajustes e comunique-se de forma eficiente.
+     Ambiente Colaborativo: Incentiva a troca de conhecimentos e fortalece os laços entre os participantes.
+
 Seja para a sala de aula, um projeto corporativo, um evento ou qualquer iniciativa que dependa da formação eficaz de equipes, o Agrupa é a ferramenta que transforma a complexidade em simplicidade, garantindo resultados superiores.
 Baixe agora o Agrupa e leve a formação dos seus grupos para um novo nível!
-“Agrupa: Juntos, o impossível vira resultado.”
+          ##“Agrupa: Juntos, o impossível vira resultado.”
 
 ## Frontend
 Para que o nome Agrupa faça sentido na experiência do usuário, o app pode ter termos internos personalizados:
-"Agrupar": O botão principal para iniciar a formação de um novo time.
-"Células": Em vez de apenas "grupos", você pode chamar os subgrupos de células (mantendo a ideia de algo vivo e orgânico).
-"Radar Agrupa": Uma funcionalidade onde o tutor visualiza a afinidade entre as pessoas antes de uni-las.
+     "Agrupar": O botão principal para iniciar a formação de um novo time.
+     "Células": Em vez de apenas "grupos", você pode chamar os subgrupos de células (mantendo a ideia de algo vivo e orgânico).
+     "Radar Agrupa": Uma funcionalidade onde o tutor visualiza a afinidade entre as pessoas antes de uni-las.
+
 Para o design do app, o contexto do nome sugere elementos de união. Imagine o seguinte:
-O Logotipo: A letra "A" pode ser estilizada como dois braços se encontrando ou como uma seta para cima (crescimento), com um ponto central representando o tutor.
-Paleta de Cores: * Azul e Verde: Transmitem confiança, crescimento e harmonia.
-Laranja e Roxo: Transmitem energia, criatividade e modernidade (ideal se for para o público jovem/universitário).
+     O Logotipo: A letra "A" pode ser estilizada como dois braços se encontrando ou como uma seta para cima (crescimento), com um ponto central representando o tutor.
+          Paleta de Cores: * Azul e Verde: Transmitem confiança, crescimento e harmonia.
+          Laranja e Roxo: Transmitem energia, criatividade e modernidade (ideal se for para o público jovem/universitário).
 ![Logo ícone para APP AGRUPA](AGRUPA.jpg){ width="300" heigh="500" align=left }
 
 ## Regras para Backend
