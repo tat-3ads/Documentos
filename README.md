@@ -28,7 +28,7 @@ A APP deve disponibilizar uma interface simplificada e ágil de calcular a quant
 5. Ao final o tutor / professor deve exportar os grupos com as pessoas / alunos num PDF.
 
 # Proposta do Projeto Grupos X Pessoas
-![Proposta do Projeto de Grupos X Pessoas](figura1.jpg){ width="700" heigh="500" align=left }
+![Proposta do Projeto de Grupos X Pessoas](figura1.jpg){ align=left }
 
 # Venda
 Chega de perder tempo com planilhas e suposições! Com o Agrupa, você, tutor ou líder, tem o poder de otimizar a formação de seus grupos como nunca antes. 
@@ -50,10 +50,12 @@ Para que o nome Agrupa faça sentido na experiência do usuário, o app pode ter
 3. "Radar Agrupa": Uma funcionalidade onde o tutor visualiza a afinidade entre as pessoas antes de uni-las.
 
 Para o design do app, o contexto do nome sugere elementos de união. Imagine o seguinte:
+
      O Logotipo: A letra "A" pode ser estilizada como dois braços se encontrando ou como uma seta para cima (crescimento), com um ponto central representando o tutor.
+     
           Paleta de Cores: * Azul e Verde: Transmitem confiança, crescimento e harmonia.
           Laranja e Roxo: Transmitem energia, criatividade e modernidade (ideal se for para o público jovem/universitário).
-![Logo ícone para APP AGRUPA](AGRUPA.jpg){ width="300" heigh="500" align=left }
+![Logo ícone para APP AGRUPA](AGRUPA.jpg){ align=left }
 
 ## Regras para Backend
 No momento de Criar o Grupo:
