@@ -48,7 +48,7 @@ Para o design do app, o contexto do nome sugere elementos de união. Imagine o s
 O Logotipo: A letra "A" pode ser estilizada como dois braços se encontrando ou como uma seta para cima (crescimento), com um ponto central representando o tutor.
 Paleta de Cores: * Azul e Verde: Transmitem confiança, crescimento e harmonia.
 Laranja e Roxo: Transmitem energia, criatividade e modernidade (ideal se for para o público jovem/universitário).
-![Logo ícone para APP AGRUPA](AGRUPA.jpg) { width="700" heigh="500" align=left }
+![Logo ícone para APP AGRUPA](AGRUPA.jpg){ width="300" heigh="500" align=left }
 
 ## Regras para Backend
 No momento de Criar o Grupo:
